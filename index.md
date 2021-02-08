@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Welcome to Concur's Blog
 
-I'm glad you are here. I plan to talk about ...
+This blog is because I want to promote my coding skills and improve them
